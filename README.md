@@ -56,7 +56,6 @@ Team player focused on high quality results.
 
 ---
 
-<details open="">
 <!-- <summary>
  📔 GitHub Stats:
 </summary>
